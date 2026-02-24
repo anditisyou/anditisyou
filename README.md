@@ -12,9 +12,9 @@
 ╚══════════════════════════════════════════╝
 ```
 
-🚀 Engineer crafting scalable systems with cyberpunk aesthetics  
+**🚀 Engineer crafting scalable systems with cyberpunk aesthetics  
 ⚡ Designing systems with scalability in mind
-🧠 Code is temporary — architecture is permanent
+🧠 Code is temporary — architecture is permanent**
 
 ---
 
