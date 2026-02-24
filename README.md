@@ -61,7 +61,7 @@ I focus on:
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anditisyou&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://streak-stats.demolab.com?user=anditisyou&theme=tokyonight)
 
 ---
 
