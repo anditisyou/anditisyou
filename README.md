@@ -39,10 +39,10 @@ const vaishnavi = {
 
 | Project | Description | Tech Stack | Status |
 |---------|-------------|------------|--------|
-| **Student Connect Hub** | Cyberpunk interactive platform with real-time collaboration | MERN + WebSockets | 🟢 Active |
-| **WhatsApp Auto-Commerce** | Plug-and-play ordering system for small businesses | Node.js + WhatsApp API | 🟡 Beta |
-| **P2P Mesh Network** | Emergency communication without internet | WebRTC + Distributed Hash Tables | 🔵 Prototype |
-| **IoT Home Automation** | Wireless sensor network with remote monitoring | Arduino + MQTT + React | 🟢 Active |
+| **Student Connect Hub** | Cyberpunk interactive platform with real-time collaboration | MERN + WebSockets | 🟢Active |
+| **WhatsApp Auto-Commerce** | Plug-and-play ordering system for small businesses | Node.js + WhatsApp API | 🟡Beta |
+| **P2P Mesh Network** | Emergency communication without internet | WebRTC + Distributed Hash Tables | 🔵Prototype |
+| **IoT Home Automation** | Wireless sensor network with remote monitoring | Arduino + MQTT + React | 🟢Active |
 
 ---
 
@@ -82,11 +82,11 @@ const vaishnavi = {
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anditisyou&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=anditisyou&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=1800)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anditisyou&theme=tokyonight&hide_border=true&background=0D1117)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anditisyou&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anditisyou&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
 
 </div>
 
