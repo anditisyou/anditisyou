@@ -7,9 +7,9 @@
 </div>
 
 ```yaml
-                                             ╔══════════════════════════════════════════╗
-                                             ║     ENGINEER • ARCHITECT • CREATOR       ║
-                                             ╚══════════════════════════════════════════╝
+                                        ╔══════════════════════════════════════════╗
+                                        ║     ENGINEER • ARCHITECT • CREATOR       ║
+                                        ╚══════════════════════════════════════════╝
 ```
 
 🚀 Engineer crafting scalable systems with cyberpunk aesthetics  
