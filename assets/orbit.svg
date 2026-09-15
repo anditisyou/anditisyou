@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 420" width="420" height="420">
+  <defs>
+    <radialGradient id="centerGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#6C63FF" stop-opacity="0.3"/>
+      <stop offset="100%" stop-color="#6C63FF" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <!-- Center glow -->
+  <circle cx="210" cy="210" r="120" fill="url(#centerGlow)"/>
+
+  <!-- Orbit rings -->
+  <ellipse cx="210" cy="210" rx="170" ry="60" fill="none" stroke="#6C63FF" stroke-width="0.8" opacity="0.25" transform="rotate(-30 210 210)"/>
+  <ellipse cx="210" cy="210" rx="150" ry="50" fill="none" stroke="#A78BFA" stroke-width="0.6" opacity="0.2" transform="rotate(20 210 210)"/>
+  <ellipse cx="210" cy="210" rx="190" ry="70" fill="none" stroke="#6C63FF" stroke-width="0.5" opacity="0.15" transform="rotate(-60 210 210)"/>
+
+  <!-- Center label -->
+  <circle cx="210" cy="210" r="42" fill="#0D0D0D" stroke="#6C63FF" stroke-width="1" opacity="0.9"/>
+  <text x="210" y="206" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="9" font-weight="600" fill="#FFFFFF" letter-spacing="1">VAISHNAVI</text>
+  <text x="210" y="222" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="7" fill="#6C63FF" letter-spacing="1">EXPLORING</text>
+
+  <!-- Orbiting labels -->
+  <g font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="9" fill="#CCCCCC" letter-spacing="1">
+    <!-- SYSTEM DESIGN -->
+    <g>
+      <animateTransform attributeName="transform" type="rotate" from="0 210 210" to="360 210 210" dur="40s" repeatCount="indefinite"/>
+      <circle cx="210" cy="40" r="3" fill="#6C63FF"/>
+      <text x="210" y="30" text-anchor="middle" font-size="9" fill="#CCCCCC">SYSTEM DESIGN</text>
+    </g>
+    <!-- CREATIVE CODE -->
+    <g>
+      <animateTransform attributeName="transform" type="rotate" from="60 210 210" to="420 210 210" dur="40s" repeatCount="indefinite"/>
+      <circle cx="210" cy="40" r="2.5" fill="#A78BFA"/>
+      <text x="210" y="30" text-anchor="middle" font-size="9" fill="#CCCCCC">CREATIVE CODE</text>
+    </g>
+    <!-- INTERACTIVE WEB -->
+    <g>
+      <animateTransform attributeName="transform" type="rotate" from="120 210 210" to="480 210 210" dur="40s" repeatCount="indefinite"/>
+      <circle cx="210" cy="40" r="3" fill="#6C63FF"/>
+      <text x="210" y="30" text-anchor="middle" font-size="9" fill="#CCCCCC">INTERACTIVE WEB</text>
+    </g>
+    <!-- PHOTOGRAPHY -->
+    <g>
+      <animateTransform attributeName="transform" type="rotate" from="180 210 210" to="540 210 210" dur="40s" repeatCount="indefinite"/>
+      <circle cx="210" cy="40" r="2.5" fill="#A78BFA"/>
+      <text x="210" y="30" text-anchor="middle" font-size="9" fill="#CCCCCC">PHOTOGRAPHY</text>
+    </g>
+    <!-- 3D WEB -->
+    <g>
+      <animateTransform attributeName="transform" type="rotate" from="240 210 210" to="600 210 210" dur="40s" repeatCount="indefinite"/>
+      <circle cx="210" cy="40" r="3" fill="#6C63FF"/>
+      <text x="210" y="30" text-anchor="middle" font-size="9" fill="#CCCCCC">3D WEB</text>
+    </g>
+    <!-- UI/UX -->
+    <g>
+      <animateTransform attributeName="transform" type="rotate" from="300 210 210" to="660 210 210" dur="40s" repeatCount="indefinite"/>
+      <circle cx="210" cy="40" r="2.5" fill="#A78BFA"/>
+      <text x="210" y="30" text-anchor="middle" font-size="9" fill="#CCCCCC">UI / UX</text>
+    </g>
+  </g>
+</svg>
