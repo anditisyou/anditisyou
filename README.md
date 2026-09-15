@@ -11,6 +11,9 @@
   <a href="https://www.linkedin.com/in/vaishnavi-khandelwal-777121289/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  <a href="https://www.instagram.com/loiol_vishnu/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
 </p>
 
 </div>
@@ -132,6 +135,9 @@ Data analytics and BI dashboard project combining SQL, Python, and exploratory d
   </a>
   <a href="https://www.linkedin.com/in/vaishnavi-khandelwal-777121289/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/loiol_vishnu/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
 
