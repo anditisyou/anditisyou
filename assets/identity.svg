@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 340" width="260" height="340">
+  <defs>
+    <linearGradient id="cardBg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#1A1A2E"/>
+      <stop offset="100%" stop-color="#0D0D0D"/>
+    </linearGradient>
+    <linearGradient id="border" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#6C63FF" stop-opacity="0.6"/>
+      <stop offset="50%" stop-color="#A78BFA" stop-opacity="0.2"/>
+      <stop offset="100%" stop-color="#6C63FF" stop-opacity="0.6"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Card shadow / depth -->
+  <rect x="8" y="8" width="244" height="324" rx="16" fill="#6C63FF" opacity="0.06"/>
+
+  <!-- Card body -->
+  <rect x="0" y="0" width="244" height="324" rx="16" fill="url(#cardBg)" stroke="url(#border)" stroke-width="1"/>
+
+  <!-- Top accent line -->
+  <line x1="24" y1="0" x2="220" y2="0" stroke="#6C63FF" stroke-width="1.5" opacity="0.5"/>
+
+  <!-- ID label -->
+  <text x="24" y="36" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="9" fill="#6C63FF" letter-spacing="3">IDENTITY</text>
+
+  <!-- Name -->
+  <text x="24" y="68" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="700" fill="#FFFFFF" letter-spacing="1">VAISHNAVI</text>
+  <text x="24" y="92" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="300" fill="#A78BFA" letter-spacing="1">KHANDELWAL</text>
+
+  <!-- Divider -->
+  <line x1="24" y1="110" x2="220" y2="110" stroke="#6C63FF" stroke-width="0.5" opacity="0.3"/>
+
+  <!-- Roles -->
+  <text x="24" y="140" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="10" fill="#CCCCCC" letter-spacing="1">ENGINEER</text>
+  <text x="24" y="162" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="10" fill="#CCCCCC" letter-spacing="1">CREATOR</text>
+  <text x="24" y="184" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="10" fill="#CCCCCC" letter-spacing="1">PHOTOGRAPHER</text>
+  <text x="24" y="206" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="10" fill="#CCCCCC" letter-spacing="1">GAMER</text>
+
+  <!-- Divider -->
+  <line x1="24" y1="228" x2="220" y2="228" stroke="#6C63FF" stroke-width="0.5" opacity="0.3"/>
+
+  <!-- Location -->
+  <text x="24" y="260" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" fill="#AAAAAA" letter-spacing="1">INDIA</text>
+
+  <!-- Status dot -->
+  <circle cx="215" cy="256" r="4" fill="#6C63FF">
+    <animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Bottom accent -->
+  <line x1="24" y1="300" x2="220" y2="300" stroke="#6C63FF" stroke-width="0.5" opacity="0.15"/>
+  <text x="24" y="316" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="8" fill="#6C63FF" letter-spacing="2" opacity="0.6">CAN WE ACTUALLY MAKE IT?</text>
+</svg>
