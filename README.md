@@ -105,7 +105,7 @@
 
 > *Engineering solutions that create impact.*
 
-```javascript
+
 const vaishnavi = {
   handle: "@anditisyou",
   location: "🌍 India",
