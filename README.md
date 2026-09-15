@@ -1,27 +1,115 @@
-# 👋 Hey, I'm Vaishnavi
+<!-- ═══════════════════════════════════════════════════════════════════
+     THE OBSERVATORY  ·  観察所
+     Vaishnavi Khandelwal — System Architect
+     Where Engineering meets Observation.
+     ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=System+Design+Enthusiast;Full-Stack+Developer;Scalability+Architect;Cyberpunk+UI+Engineer)](https://git.io/typing-svg)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0000,50:8B0000,100:0A0000&height=180&section=header&text=THE%20OBSERVATORY&fontSize=70&fontColor=F5E6C8&fontAlignY=45&desc=VAISHNAVI%20KHANDELWAL%20%20%C2%B7%20%20%E8%A6%B3%E5%AF%9F%E6%89%80&descSize=16&descAlignY=68&animation=fadeIn" width="100%" />
+
+<br/>
+
+<sub><i>観察する ・ 構築する ・ 創造する</i></sub>
+
+<br/><br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=600&size=26&duration=3500&pause=900&color=E63946&center=true&vCenter=true&width=700&lines=Where+Engineering+meets+Observation.;Where+Observation+inspires+Creation.;%E2%80%94+KANSOKU+%2F+OBSERVATION)](https://git.io/typing-svg)
+
+<br/>
+
+<a href="#observe"><img src="https://img.shields.io/badge/OBSERVE-E63946?style=for-the-badge&labelColor=0A0000" /></a>
+<a href="#build"><img src="https://img.shields.io/badge/BUILD-F5E6C8?style=for-the-badge&labelColor=0A0000" /></a>
+<a href="#research"><img src="https://img.shields.io/badge/RESEARCH-F5E6C8?style=for-the-badge&labelColor=0A0000" /></a>
+<a href="#create"><img src="https://img.shields.io/badge/CREATE-F5E6C8?style=for-the-badge&labelColor=0A0000" /></a>
+<a href="#beyond"><img src="https://img.shields.io/badge/BEYOND-F5E6C8?style=for-the-badge&labelColor=0A0000" /></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=anditisyou&color=8B0000&style=for-the-badge&label=OBSERVERS" />
+<img src="https://img.shields.io/badge/STATUS-ONLINE-E63946?style=for-the-badge&labelColor=0A0000" />
+<img src="https://img.shields.io/badge/LOCATION-INDIA%20%F0%9F%87%AE%F0%9F%87%B3-8B0000?style=for-the-badge&labelColor=0A0000" />
 
 </div>
 
-```yaml
-                                        ╔══════════════════════════════════════════╗
-                                        ║     ENGINEER • ARCHITECT • CREATOR       ║
-                                        ╚══════════════════════════════════════════╝
-```
-
-🚀 Engineer crafting scalable systems with cyberpunk aesthetics  
-⚡ Designing systems with scalability in mind
-🧠 Code is temporary — architecture is permanent
+<br/>
 
 ---
 
-## 🔥 SYSTEM STATUS
+<div align="center">
+
+<table>
+<tr>
+<td width="60%" valign="top" align="left">
+
+<br/>
+
+# THE<br/>OBSERVATORY
+
+<sub><code>KANSOKU — OBSERVATION</code></sub>
+
+<br/><br/>
+
+**Where Engineering meets Observation.**
+**Where Observation inspires Creation.**
+
+<br/>
+
+<i>— Vaishnavi Khandelwal</i>
+<br/>
+<sub>構築する ・ 創造する</sub>
+
+<br/><br/>
+
+**[→ ENTER THE OBSERVATORY](#-01--observe)**
+
+<hr/>
+
+</td>
+<td width="40%" valign="top" align="right">
+
+<br/>
+
+### `01 — 構築する`
+### **BUILD**
+<sub>Engineering solutions that create impact.</sub>
+
+<br/>
+
+### `02 — 研究する`
+### **RESEARCH**
+<sub>Exploring ideas that push boundaries.</sub>
+
+<br/>
+
+### `03 — 創造する`
+### **CREATE**
+<sub>Capturing moments. Expressing thoughts.</sub>
+
+<br/>
+
+### `04 — 余白を生きる`
+### **BEYOND**
+<sub>The human behind the work.</sub>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<a id="observe"></a>
+## <code>01</code> · 構築する · **BUILD**
+
+> *Engineering solutions that create impact.*
 
 ```javascript
 const vaishnavi = {
+  handle: "@anditisyou",
+  location: "🌍 India",
+  role: "System Architect",
   currentFocus: [
     "Distributed Systems Design",
     "Real-time Architecture",
@@ -29,73 +117,107 @@ const vaishnavi = {
     "IoT Infrastructure"
   ],
   mindset: "Scale-first development",
-  philosophy: "Build systems that survive traffic spikes, not just demos"
-}
-```
+  philosophy: "Build systems that survive traffic spikes, not just demos",
+  currentlyLearning: ["System Design at Scale", "Event-Driven Architecture"],
+  funFact: "Debugs faster with lo-fi beats and neon lighting 🎧",
+  status: "▓▓▓▓▓▓▓▓▓▓ ONLINE"
+};
 
----
+🏮 ACTIVE PROJECTS
+<table> <tr> <td width="50%">
+🟢 Student Connect Hub
+Cyberpunk interactive platform with real-time collaboration
 
-## 🚀 ACTIVE PROJECTS
+MERN · WebSockets
+Status: ● ACTIVE
 
-| Project | Description | Tech Stack | Status |
-|---------|-------------|------------|--------|
-| **Student Connect Hub** | Cyberpunk interactive platform with real-time collaboration | MERN + WebSockets | 🟢Active |
-| **WhatsApp Auto-Commerce** | Plug-and-play ordering system for small businesses | Node.js + WhatsApp API | 🟡Beta |
-| **P2P Mesh Network** | Emergency communication without internet | WebRTC + Distributed Hash Tables | 🔵Prototype |
-| **IoT Home Automation** | Wireless sensor network with remote monitoring | Arduino + MQTT + React | 🟢Active |
+</td> <td width="50%">
+🟡 WhatsApp Auto-Commerce
+Plug-and-play ordering system for small businesses
 
----
+Node.js · WhatsApp API
+Status: ◐ BETA
 
-## 💻 TECHNICAL PROFICIENCY
+</td> </tr> <tr> <td width="50%">
+🔵 P2P Mesh Network
+Emergency communication without internet
 
-### Core Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=0D1117)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0D1117)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0D1117)
+WebRTC · Distributed Hash Tables
+Status: ◔ PROTOTYPE
 
-### Frontend Engineering
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+</td> <td width="50%">
+🟢 IoT Home Automation
+Wireless sensor network with remote monitoring
 
-**Expertise:** Glassmorphism • HUD Interfaces • WebGL Animations • Responsive Architecture
+Arduino · MQTT · React
+Status: ● ACTIVE
 
-### Backend & Databases
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=0D1117)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=0D1117)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=0D1117)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&labelColor=0D1117)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0D1117)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white&labelColor=0D1117)
+</td> </tr> </table>
+<a id="build"></a>
 
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0D1117)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=0D1117)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=0D1117)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0D1117)
+<code>02</code> · 研究する · RESEARCH
+Exploring ideas that push boundaries.
 
----
+⌨️ CORE LANGUAGES
+https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=0A0000
+https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0A0000
+https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0A0000
+https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0A0000
 
-## 📈 GITHUB ANALYTICS
+🎨 FRONTEND ENGINEERING
+https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0A0000
+https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=0A0000
+https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=0A0000
+https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white&labelColor=0A0000
 
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=anditisyou&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=1800)
+<sub><i>Glassmorphism · HUD Interfaces · WebGL Animations · Responsive Architecture</i></sub>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anditisyou&theme=tokyonight&hide_border=true&background=0D1117)
+⚙️ BACKEND & DATABASES
+https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=0A0000
+https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=0A0000
+https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=0A0000
+https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&labelColor=0A0000
+https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0A0000
+https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white&labelColor=0A0000
 
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anditisyou&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
+🛰️ DEVOPS & TOOLS
+https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0A0000
+https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=0A0000
+https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=0A0000
+https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0A0000
 
-</div>
+<a id="create"></a>
 
----
+<code>03</code> · 創造する · CREATE
+Capturing moments. Expressing thoughts.
 
-## 🧠 ENGINEERING PHILOSOPHY
+<div align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=anditisyou&show_icons=true&theme=dark&hide_border=true&bg_color=0A0000&title_color=E63946&icon_color=F5E6C8&text_color=F5E6C8&border_color=8B0000&cache_seconds=1800" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anditisyou&layout=compact&theme=dark&hide_border=true&bg_color=0A0000&title_color=E63946&text_color=F5E6C8&border_color=8B0000&langs_count=8" />
 
-```python
+
+
+<img src="https://streak-stats.demolab.com/?user=anditisyou&theme=dark&hide_border=true&background=0A0000&stroke=E63946&ring=E63946&fire=F5E6C8&currStreakLabel=E63946&sideLabels=F5E6C8&dates=F5E6C8&border=8B0000" />
+
+
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anditisyou&bg_color=0A0000&color=F5E6C8&line=E63946&point=F5E6C8&hide_border=true&area=true&area_color=8B0000" width="95%" />
+
+
+
+https://github-profile-trophy.vercel.app/?username=anditisyou&theme=gruvbox&no-frame=true&no-bg=true&margin-w=8&row=1&column=7
+
+
+<picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anditisyou/anditisyou/output/github-contribution-grid-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anditisyou/anditisyou/output/github-contribution-grid-snake.svg" /> <img alt="contribution snake" src="https://raw.githubusercontent.com/anditisyou/anditisyou/output/github-contribution-grid-snake-dark.svg" /> </picture></div>
+<a id="beyond"></a>
+
+<code>04</code> · 余白を生きる · BEYOND
+The human behind the work.
+
+python
 class SystemArchitect:
+    """
+    Blueprint for building systems that outlive trends.
+    """
+
     def __init__(self):
         self.mindset = "Scale-first development"
         self.principles = [
@@ -103,38 +225,46 @@ class SystemArchitect:
             "Caching before Optimization",
             "Async by Default",
             "Fail Gracefully",
-            "Log Everything"
+            "Log Everything",
+            "Design for 10x, build for 1x"
         ]
-    
-    def design_system(self, requirements):
-        """Always plan for 10x traffic"""
-        return self.scale_architecture(requirements)
-```
 
----
+    def design_system(self, requirements) -> "Architecture":
+        """Always plan for 10x traffic, then triple it."""
+        return self.scale_architecture(
+            requirements,
+            headroom=3.0,
+            redundancy=True
+        )
 
-## 🌐 CONNECT WITH ME
+    def debug(self, issue):
+        """The five stages of debugging."""
+        return [
+            "denial",
+            "console.log everywhere",
+            "blame the framework",
+            "read the docs",
+            "it was a typo all along"
+        ]
 
+    def deploy(self):
+        """Friday deploys? We don't do that here."""
+        if self.is_friday():
+            raise RollbackException("Not today, chaos.")
+        return self.ship_with_confidence()
 <div align="center">
+💬 "Building tomorrow's systems, today"
+Interested in system design? Scale architecture? Cyberpunk UI?
+Let's collaborate. Open to discussions, projects, and coffee chats ☕
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaishnavi-khandelwal-777121289/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yo_extra/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://vaishnavikhandelwal.netlify.app/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaishnavikhandelwal1781@gmail.com)
 
----
 
-### 💬 "Building tomorrow's systems, today"
 
-Interested in system design? Scale architecture? Cyberpunk UI?  
-**Let's collaborate.** Open to discussions, projects, and coffee chats ☕
+<a href="https://www.linkedin.com/in/vaishnavi-khandelwal-777121289/"> <img src="https://img.shields.io/badge/LinkedIn-8B0000?style=for-the-badge&logo=linkedin&logoColor=F5E6C8&labelColor=0A0000" /> </a> <a href="https://www.instagram.com/yo_extra/"> <img src="https://img.shields.io/badge/Instagram-8B0000?style=for-the-badge&logo=instagram&logoColor=F5E6C8&labelColor=0A0000" /> </a> <a href="https://vaishnavikhandelwal.netlify.app/"> <img src="https://img.shields.io/badge/Portfolio-8B0000?style=for-the-badge&logo=netlify&logoColor=F5E6C8&labelColor=0A0000" /> </a> <a href="mailto:vaishnavikhandelwal1781@gmail.com"> <img src="https://img.shields.io/badge/Email-8B0000?style=for-the-badge&logo=gmail&logoColor=F5E6C8&labelColor=0A0000" /> </a>
 
-</div>
 
----
 
-<div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=anditisyou&color=00f7ff&style=flat-square)
+<sub><i>現在観察中 · Now observing</i></sub>
 
-</div>
+
+<sub>Kaze no Koe</sub>
