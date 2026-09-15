@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" width="1200" height="420">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0D0D0D"/>
+      <stop offset="100%" stop-color="#1A1A2E"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#6C63FF"/>
+      <stop offset="100%" stop-color="#A78BFA"/>
+    </linearGradient>
+    <linearGradient id="fade" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#6C63FF" stop-opacity="0.3"/>
+      <stop offset="100%" stop-color="#6C63FF" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#6C63FF" stop-opacity="0.15"/>
+      <stop offset="100%" stop-color="#6C63FF" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="blur">
+      <feGaussianBlur stdDeviation="40"/>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="420" fill="url(#bg)"/>
+
+  <!-- Ambient glow -->
+  <ellipse cx="600" cy="210" rx="400" ry="200" fill="url(#glow)" filter="url(#blur)"/>
+
+  <!-- Perspective grid -->
+  <g opacity="0.08" stroke="#6C63FF" stroke-width="0.5">
+    <line x1="0" y1="420" x2="600" y2="200"/>
+    <line x1="150" y1="420" x2="600" y2="200"/>
+    <line x1="300" y1="420" x2="600" y2="200"/>
+    <line x1="450" y1="420" x2="600" y2="200"/>
+    <line x1="600" y1="420" x2="600" y2="200"/>
+    <line x1="750" y1="420" x2="600" y2="200"/>
+    <line x1="900" y1="420" x2="600" y2="200"/>
+    <line x1="1050" y1="420" x2="600" y2="200"/>
+    <line x1="1200" y1="420" x2="600" y2="200"/>
+    <line x1="0" y1="300" x2="1200" y2="300"/>
+    <line x1="0" y1="350" x2="1200" y2="350"/>
+    <line x1="0" y1="390" x2="1200" y2="390"/>
+  </g>
+
+  <!-- Floating orbital rings -->
+  <g transform="translate(600, 210)" opacity="0.25">
+    <ellipse rx="320" ry="80" fill="none" stroke="#6C63FF" stroke-width="0.8" transform="rotate(-15)">
+      <animateTransform attributeName="transform" type="rotate" from="-15 0 0" to="345 0 0" dur="40s" repeatCount="indefinite" additive="replace"/>
+    </ellipse>
+    <ellipse rx="260" ry="60" fill="none" stroke="#A78BFA" stroke-width="0.6" transform="rotate(25)">
+      <animateTransform attributeName="transform" type="rotate" from="25 0 0" to="-335 0 0" dur="30s" repeatCount="indefinite" additive="replace"/>
+    </ellipse>
+  </g>
+
+  <!-- Orbiting dots -->
+  <g transform="translate(600, 210)">
+    <circle r="4" fill="#6C63FF">
+      <animateMotion dur="20s" repeatCount="indefinite" path="M320,0 A320,80 0 1,1 -320,0 A320,80 0 1,1 320,0" rotate="auto"/>
+    </circle>
+    <circle r="3" fill="#A78BFA">
+      <animateMotion dur="15s" repeatCount="indefinite" path="M260,0 A260,60 0 1,0 -260,0 A260,60 0 1,0 260,0" rotate="auto"/>
+    </circle>
+    <circle r="2.5" fill="#FFFFFF" opacity="0.6">
+      <animateMotion dur="25s" repeatCount="indefinite" path="M300,0 A300,70 0 1,1 -300,0 A300,70 0 1,1 300,0" rotate="auto"/>
+    </circle>
+  </g>
+
+  <!-- Name -->
+  <text x="600" y="185" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="56" font-weight="700" fill="#FFFFFF" letter-spacing="8">
+    VAISHNAVI
+  </text>
+  <text x="600" y="240" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="56" font-weight="300" fill="url(#accent)" letter-spacing="12">
+    KHANDELWAL
+  </text>
+
+  <!-- Divider line -->
+  <line x1="380" y1="275" x2="820" y2="275" stroke="#6C63FF" stroke-width="0.5" opacity="0.4"/>
+
+  <!-- Roles -->
+  <text x="600" y="310" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#AAAAAA" letter-spacing="6">
+    ENGINEER · CREATOR · PHOTOGRAPHER
+  </text>
+
+  <!-- Tagline -->
+  <text x="600" y="360" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#6C63FF" letter-spacing="2" opacity="0.8">
+    I build things that work, and create things worth remembering.
+  </text>
+
+  <!-- Scanning line animation -->
+  <rect x="0" y="0" width="1200" height="2" fill="url(#accent)" opacity="0.15">
+    <animate attributeName="y" from="0" to="420" dur="6s" repeatCount="indefinite"/>
+  </rect>
+</svg>
