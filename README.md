@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner-hero.svg" width="100%" alt="Vaishnavi Khandelwal — System Architect"/>
+<img src="banner-hero.svg" width="100%" alt="Vaishnavi Khandelwal — System Architect"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1100&color=00F7FF&center=true&vCenter=true&width=700&lines=%3E+booting_architecture.exe;loading+distributed+systems...;compiling+cyberpunk+UI...;%3E+status%3A+READY)](https://git.io/typing-svg)
 
@@ -209,6 +209,6 @@ class SystemArchitect:
 Interested in system design? Scale architecture? Cyberpunk UI?
 **Let's collaborate.** Open to discussions, projects, and coffee chats ☕
 
-<img src="assets/banner-footer.svg" width="100%" alt="footer"/>
+<img src="banner-footer.svg" width="100%" alt="footer"/>
 
 </div>
