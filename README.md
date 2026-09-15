@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00C7B7,100:7B2FF7&height=200&section=header&text=Vaishnavi%20Khandelwal&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Analyst%20%C2%B7%20Engineer%20%C2%B7%20Builder&descAlignY=55&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,35:7B2FF7,70:00C7B7,100:0D1117&height=230&section=header&text=VAISHNAVI%20KHANDELWAL&fontSize=56&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=DATA%20ANALYST%20%E2%9A%A1%20ENGINEER%20%E2%9A%A1%20BUILDER&descAlignY=58&descSize=20" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00C7B7&center=true&vCenter=true&width=650&lines=Every+dataset+begins+with+a+question.;SQL+to+surface+it.+Python+to+understand+it.;Dashboards+to+make+it+useful.;Between+logic+and+creation.)](https://vaishnavikhandelwal.netlify.app/)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2800&pause=700&color=00F7FF&center=true&vCenter=true&width=700&height=60&lines=%E2%9A%A1+Every+dataset+begins+with+a+question.;%F0%9F%94%A5+SQL+to+surface+it.+Python+to+understand+it.;%F0%9F%9A%80+Dashboards+that+make+it+useful.;%E2%9C%A8+Between+logic+and+creation.)](https://vaishnavikhandelwal.netlify.app/)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://vaishnavikhandelwal.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaishnavi-khandelwal-777121289/)
@@ -13,7 +13,7 @@
 
 ---
 
-<img align="right" width="380" src="https://github-readme-stats-sigma-five.vercel.app/api?username=anditisyou&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=00C7B7&title_color=00C7B7" />
+<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=anditisyou&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=00F7FF&title_color=00F7FF&text_color=c9d1d9&cache_seconds=86400" />
 
 ### ⟢ whoami
 
@@ -32,7 +32,7 @@ vaishnavi = {
 
 ---
 
-## ⟢ Projects — click to expand
+## <img src="https://img.shields.io/badge/⟢-PROJECTS-7B2FF7?style=for-the-badge&labelColor=0D1117" /> click to expand
 
 <details>
 <summary><b>🚑 &nbsp;Emergency Response System</b> — ML dispatch routing under high concurrency</summary>
@@ -117,7 +117,7 @@ fallback "Didn't catch that — try a clearer keyword."
 
 ---
 
-## ⟢ Toolkit
+## <img src="https://img.shields.io/badge/⟢-TOOLKIT-00C7B7?style=for-the-badge&labelColor=0D1117" />
 
 <div align="center">
 
@@ -144,15 +144,15 @@ fallback "Didn't catch that — try a clearer keyword."
 
 ---
 
-## ⟢ Activity
+## <img src="https://img.shields.io/badge/⟢-ACTIVITY-FF2E9F?style=for-the-badge&labelColor=0D1117" />
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=anditisyou&theme=tokyonight&hide_border=true&background=0D1117&ring=00C7B7&fire=7B2FF7" width="60%" />
+<img src="https://streak-stats.demolab.com?user=anditisyou&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=FF2E9F&currStreakLabel=00F7FF&cache_seconds=86400" width="65%" />
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anditisyou&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00C7B7&line=7B2FF7&point=ffffff&area=true)](https://github.com/anditisyou)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anditisyou&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F7FF&line=FF2E9F&point=ffffff&area=true&area_color=7B2FF7)](https://github.com/anditisyou)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=anditisyou&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8)
+![Trophies](https://github-profile-trophy.vercel.app/?username=anditisyou&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10&row=2)
 
 </div>
 
