@@ -1,176 +1,140 @@
+# 👋 Hey, I'm Vaishnavi
+
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=8B2E2E&height=6&section=header" width="100%" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=42&duration=5000&pause=100000&color=C9A227&center=true&vCenter=true&width=700&height=68&lines=VAISHNAVI+KHANDELWAL" />
-
-*Data&nbsp;Analyst&nbsp;&nbsp;·&nbsp;&nbsp;Engineer&nbsp;&nbsp;·&nbsp;&nbsp;Builder*
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Special+Elite&weight=500&size=18&duration=3200&pause=900&color=355E3B&center=true&vCenter=true&width=680&height=40&lines=Every+dataset+begins+with+a+question.;SQL+to+surface+it.+Python+to+understand+it.;Dashboards+that+make+it+useful.;Between+logic+and+creation.)](https://vaishnavikhandelwal.netlify.app/)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-355E3B?style=flat-square&logo=netlify&logoColor=F4E9D8&labelColor=2B211A)](https://vaishnavikhandelwal.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1F3A5F?style=flat-square&logo=linkedin&logoColor=F4E9D8&labelColor=2B211A)](https://www.linkedin.com/in/vaishnavi-khandelwal-777121289/)
-[![Email](https://img.shields.io/badge/Email-8B2E2E?style=flat-square&logo=gmail&logoColor=F4E9D8&labelColor=2B211A)](mailto:vaishnavikhandelwal1781@gmail.com)
-![Visitors](https://komarev.com/ghpvc/?username=anditisyou&color=C9A227&style=flat-square&label=VISITORS)
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=1F3A5F&height=6&section=header" width="100%" />
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=System+Design+Enthusiast;Full-Stack+Developer;Scalability+Architect;Cyberpunk+UI+Engineer)](https://git.io/typing-svg)
 
 </div>
 
-<p align="center">❧ &nbsp; ❦ &nbsp; ❧</p>
-
-## About
-
-<img align="right" width="360" src="https://github-readme-stats.vercel.app/api?username=anditisyou&show_icons=true&theme=gruvbox&hide_border=true&bg_color=2B211A&icon_color=C9A227&title_color=C9A227&text_color=F4E9D8&cache_seconds=86400" />
-
-Data analyst and engineer who finds the story in the numbers — then builds the system that acts on it.
-
-- **Focus** — Data Analytics & BI · Machine Learning · Full-Stack Engineering
-- **Currently studying** — efficient deep learning: pruning, quantization, cheaper inference
-- **Off the clock** — out with a camera, chasing light
-
-<br clear="right" />
-
-<p align="center">❧ &nbsp; ❦ &nbsp; ❧</p>
-
-## Projects
-
-<sub><i>click a title to open the case study</i></sub>
-
-<details>
-<summary><b>I. &nbsp;Emergency Response System</b> — ML dispatch routing under high concurrency</summary>
-
-<br>
-
-<img src="https://vaishnavikhandelwal.netlify.app/assets/photography/ERS.png" width="100%" />
-
-**Problem** — Emergency requests need fast triage, route matching, and hospital handoff under pressure.
-**Architecture** — Socket.IO dispatch events, Redis-backed state, geospatial scoring for ambulance assignment.
-**Outcome** — Sub-second matching sustained at peak load.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=2B211A)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white&labelColor=2B211A)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white&labelColor=2B211A)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white&labelColor=2B211A)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white&labelColor=2B211A)
-
-[**Live deployment ›**](https://ambulance-ykea.onrender.com/) &nbsp;·&nbsp; [**Source ›**](https://github.com/anditisyou/Ambulance)
-
-</details>
-
-<details>
-<summary><b>II. &nbsp;Chatbot Platform DSL</b> — a language that compiles into a bot</summary>
-
-<br>
-
-<img src="https://vaishnavikhandelwal.netlify.app/assets/photography/BOT.png" width="100%" />
-
-**Problem** — Teams need configurable chatbots without rewriting rigid flow logic every time.
-**Architecture** — A plain-text DSL compiles intents, keyword tries, and fallbacks into deployable bot config.
-**Outcome** — Multi-intent bots built in minutes instead of rewrites.
-
-```
-bot AdmissionsBot
-domain education
-
-intent fees
-keywords: fee tuition kitna
-response "1.2 lakh full semester. EMI available."
-
-fallback "Didn't catch that — try a clearer keyword."
+```yaml
+                                        ╔══════════════════════════════════════════╗
+                                        ║     ENGINEER • ARCHITECT • CREATOR       ║
+                                        ╚══════════════════════════════════════════╝
 ```
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB&labelColor=2B211A)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white&labelColor=2B211A)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white&labelColor=2B211A)
+🚀 Engineer crafting scalable systems with cyberpunk aesthetics  
+⚡ Designing systems with scalability in mind
+🧠 Code is temporary — architecture is permanent
 
-[**Live playground ›**](https://buildchatbot.onrender.com/) &nbsp;·&nbsp; [**Source ›**](https://github.com/anditisyou/BuildChatBot)
+---
 
-</details>
+## 🔥 SYSTEM STATUS
 
-<details>
-<summary><b>III. &nbsp;AI-Enabled Business Intelligence</b> — raw tables → executive dashboards</summary>
+```javascript
+const vaishnavi = {
+  currentFocus: [
+    "Distributed Systems Design",
+    "Real-time Architecture",
+    "Cyberpunk UI/UX",
+    "IoT Infrastructure"
+  ],
+  mindset: "Scale-first development",
+  philosophy: "Build systems that survive traffic spikes, not just demos"
+}
+```
 
-<br>
+---
 
-<img src="https://vaishnavikhandelwal.netlify.app/assets/photography/ANALYSIS.png" width="100%" />
+## 🚀 ACTIVE PROJECTS
 
-**Problem** — Raw business data needed to become readable growth signals for decision makers.
-**Architecture** — SQL extraction, Python EDA, dashboard modeling, Looker Studio reporting views.
-**Outcome** — Full BI capstone report, validated through AI prompt frameworks.
+| Project | Description | Tech Stack | Status |
+|---------|-------------|------------|--------|
+| **Student Connect Hub** | Cyberpunk interactive platform with real-time collaboration | MERN + WebSockets | 🟢Active |
+| **WhatsApp Auto-Commerce** | Plug-and-play ordering system for small businesses | Node.js + WhatsApp API | 🟡Beta |
+| **P2P Mesh Network** | Emergency communication without internet | WebRTC + Distributed Hash Tables | 🔵Prototype |
+| **IoT Home Automation** | Wireless sensor network with remote monitoring | Arduino + MQTT + React | 🟢Active |
 
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white&labelColor=2B211A)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white&labelColor=2B211A)
-![Looker](https://img.shields.io/badge/Looker_Studio-4285F4?style=flat-square&logo=looker&logoColor=white&labelColor=2B211A)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white&labelColor=2B211A)
+---
 
-[**Open the dashboard ›**](https://datastudio.google.com/u/0/reporting/8033bb17-0924-4357-92c4-c6f39b002b07/page/HjT6F)
+## 💻 TECHNICAL PROFICIENCY
 
-</details>
+### Core Languages
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=0D1117)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0D1117)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0D1117)
 
-<details>
-<summary><b>IV. &nbsp;Research in Progress</b></summary>
+### Frontend Engineering
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
 
-<br>
+**Expertise:** Glassmorphism • HUD Interfaces • WebGL Animations • Responsive Architecture
 
-- **Deep learning architecture** — neural nets for efficient large-scale data processing, optimized for real-time inference.
-- **Sustainable AI** — cutting compute overhead via pruning, quantization, and efficient architecture design.
+### Backend & Databases
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=0D1117)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=0D1117)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=0D1117)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&labelColor=0D1117)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0D1117)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white&labelColor=0D1117)
 
-</details>
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0D1117)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=0D1117)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=0D1117)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0D1117)
 
-<p align="center">❧ &nbsp; ❦ &nbsp; ❧</p>
+---
 
-## Toolkit
+## 📈 GITHUB ANALYTICS
 
 <div align="center">
+  
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=anditisyou&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=1800)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=2B211A)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white&labelColor=2B211A)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black&labelColor=2B211A)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white&labelColor=2B211A)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white&labelColor=2B211A)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anditisyou&theme=tokyonight&hide_border=true&background=0D1117)
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white&labelColor=2B211A)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white&labelColor=2B211A)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white&labelColor=2B211A)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white&labelColor=2B211A)
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB&labelColor=2B211A)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white&labelColor=2B211A)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white&labelColor=2B211A)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white&labelColor=2B211A)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white&labelColor=2B211A)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white&labelColor=2B211A)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white&labelColor=2B211A)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anditisyou&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
 
 </div>
 
-<p align="center">❧ &nbsp; ❦ &nbsp; ❧</p>
+---
 
-## Activity
+## 🧠 ENGINEERING PHILOSOPHY
+
+```python
+class SystemArchitect:
+    def __init__(self):
+        self.mindset = "Scale-first development"
+        self.principles = [
+            "Modularity over Monoliths",
+            "Caching before Optimization",
+            "Async by Default",
+            "Fail Gracefully",
+            "Log Everything"
+        ]
+    
+    def design_system(self, requirements):
+        """Always plan for 10x traffic"""
+        return self.scale_architecture(requirements)
+```
+
+---
+
+## 🌐 CONNECT WITH ME
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=anditisyou&theme=gruvbox&hide_border=true&background=2B211A&ring=355E3B&fire=8B2E2E&currStreakLabel=C9A227&cache_seconds=86400" width="65%" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaishnavi-khandelwal-777121289/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yo_extra/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://vaishnavikhandelwal.netlify.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaishnavikhandelwal1781@gmail.com)
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anditisyou&hide_border=true&bg_color=2B211A&color=C9A227&line=8B2E2E&point=F4E9D8&area=true&area_color=1F3A5F)](https://github.com/anditisyou)
+---
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=anditisyou&theme=gruvbox&no-frame=true&no-bg=true&column=7&margin-w=10&row=2)
+### 💬 "Building tomorrow's systems, today"
+
+Interested in system design? Scale architecture? Cyberpunk UI?  
+**Let's collaborate.** Open to discussions, projects, and coffee chats ☕
 
 </div>
 
-<p align="center">❧ &nbsp; ❦ &nbsp; ❧</p>
+---
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=355E3B&height=6&section=header" width="100%" />
-
-> *"Technology matters most when it serves people."*
-
-Open to data, ML, and full-stack collaborations — or a coffee chat.
-
-[Portfolio](https://vaishnavikhandelwal.netlify.app/) &nbsp;·&nbsp; [Photography](https://vaishnavikhandelwal.netlify.app/photography/) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/vaishnavi-khandelwal-777121289/)
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=8B2E2E&height=6&section=header" width="100%" />
+  
+![Profile Views](https://komarev.com/ghpvc/?username=anditisyou&color=00f7ff&style=flat-square)
 
 </div>
