@@ -1,27 +1,34 @@
-# 👋 Hey, I'm Vaishnavi
-
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=System+Design+Enthusiast;Full-Stack+Developer;Scalability+Architect;Cyberpunk+UI+Engineer)](https://git.io/typing-svg)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00F7FF,100:FF00E5&height=200&section=header&text=VAISHNAVI%20KHANDELWAL&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=System%20Design%20Enthusiast%20%7C%20Full-Stack%20Architect&descAlignY=55&descSize=18" width="100%"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=%3E+booting_architecture.exe;System+Design+Enthusiast;Full-Stack+Developer;Scalability+Architect;Cyberpunk+UI+Engineer;%3E+status%3A+building...)](https://git.io/typing-svg)
+
+<img src="https://komarev.com/ghpvc/?username=anditisyou&color=00f7ff&style=for-the-badge&label=PROFILE+VIEWS" />
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00F7FF?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/BUILDING-SCALABLE%20SYSTEMS-FF00E5?style=for-the-badge&labelColor=0D1117" />
 
 </div>
 
 ```yaml
-                                        ╔══════════════════════════════════════════╗
-                                        ║     ENGINEER • ARCHITECT • CREATOR       ║
-                                        ╚══════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════╗
+║   > IDENTITY.decrypt()                                            ║
+║   ENGINEER • ARCHITECT • CREATOR                                  ║
+║   "Code is temporary. Architecture is permanent."                 ║
+╚══════════════════════════════════════════════════════════════════╝
 ```
 
-🚀 Engineer crafting scalable systems with cyberpunk aesthetics  
+🚀 Engineer crafting scalable systems with cyberpunk aesthetics
 ⚡ Designing systems with scalability in mind
-🧠 Code is temporary — architecture is permanent
+🧠 Obsessed with systems that survive traffic spikes, not just demos
 
 ---
 
-## 🔥 SYSTEM STATUS
+## 📡 SYSTEM STATUS
 
 ```javascript
 const vaishnavi = {
+  location: "🌍 India",
   currentFocus: [
     "Distributed Systems Design",
     "Real-time Architecture",
@@ -29,20 +36,66 @@ const vaishnavi = {
     "IoT Infrastructure"
   ],
   mindset: "Scale-first development",
-  philosophy: "Build systems that survive traffic spikes, not just demos"
-}
+  philosophy: "Build systems that survive traffic spikes, not just demos",
+  currentlyLearning: ["System Design at Scale", "Event-Driven Architecture"],
+  funFact: "Debugs faster with lo-fi beats and neon lighting 🎧"
+};
 ```
+
+---
+
+## 🎯 QUICK STATS
+
+<div align="center">
+
+| ⚡ Uptime | 🛠️ Active Projects | 🌐 Tech Stack | ☕ Fuel |
+|:---:|:---:|:---:|:---:|
+| Always Building | 4 | 15+ Technologies | Infinite Coffee |
+
+</div>
 
 ---
 
 ## 🚀 ACTIVE PROJECTS
 
-| Project | Description | Tech Stack | Status |
-|---------|-------------|------------|--------|
-| **Student Connect Hub** | Cyberpunk interactive platform with real-time collaboration | MERN + WebSockets | 🟢Active |
-| **WhatsApp Auto-Commerce** | Plug-and-play ordering system for small businesses | Node.js + WhatsApp API | 🟡Beta |
-| **P2P Mesh Network** | Emergency communication without internet | WebRTC + Distributed Hash Tables | 🔵Prototype |
-| **IoT Home Automation** | Wireless sensor network with remote monitoring | Arduino + MQTT + React | 🟢Active |
+<table>
+<tr>
+<td width="50%">
+
+### 🟢 Student Connect Hub
+Cyberpunk interactive platform with real-time collaboration
+`MERN` `WebSockets`
+**Status:** Active
+
+</td>
+<td width="50%">
+
+### 🟡 WhatsApp Auto-Commerce
+Plug-and-play ordering system for small businesses
+`Node.js` `WhatsApp API`
+**Status:** Beta
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🔵 P2P Mesh Network
+Emergency communication without internet
+`WebRTC` `Distributed Hash Tables`
+**Status:** Prototype
+
+</td>
+<td width="50%">
+
+### 🟢 IoT Home Automation
+Wireless sensor network with remote monitoring
+`Arduino` `MQTT` `React`
+**Status:** Active
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -81,12 +134,35 @@ const vaishnavi = {
 ## 📈 GITHUB ANALYTICS
 
 <div align="center">
-  
+
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=anditisyou&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=1800)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anditisyou&theme=tokyonight&hide_border=true&background=0D1117)
 
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anditisyou&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
+
+</div>
+
+---
+
+## 🏆 GITHUB TROPHIES
+
+<div align="center">
+
+![trophy](https://github-profile-trophy.vercel.app/?username=anditisyou&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1)
+
+</div>
+
+---
+
+## 🐍 CONTRIBUTION GRAPH
+
+<div align="center">
+
+<!-- Powered by github-contribution-grid-snake workflow -->
+<img src="https://raw.githubusercontent.com/anditisyou/anditisyou/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+
+<sub>💡 Set up via the <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action — generates a live snake eating your contribution graph</sub>
 
 </div>
 
@@ -105,11 +181,31 @@ class SystemArchitect:
             "Fail Gracefully",
             "Log Everything"
         ]
-    
+
     def design_system(self, requirements):
         """Always plan for 10x traffic"""
         return self.scale_architecture(requirements)
+
+    def debug(self, issue):
+        """The five stages of debugging"""
+        return ["denial", "console.log everywhere",
+                "blame the framework", "read the docs",
+                "it was a typo all along"]
 ```
+
+---
+
+## 📊 WEEKLY DEV BREAKDOWN
+
+<!--START_SECTION:waka-->
+```text
+System Design       ████████████░░░░░░░░░   52%
+Frontend Dev         ███████░░░░░░░░░░░░░   28%
+DevOps & Infra        ████░░░░░░░░░░░░░░░   12%
+Debugging Existence     ██░░░░░░░░░░░░░░░░░   8%
+```
+<sub>💡 Connect the WakaTime plugin to make this graph auto-update from real coding activity</sub>
+<!--END_SECTION:waka-->
 
 ---
 
@@ -126,15 +222,9 @@ class SystemArchitect:
 
 ### 💬 "Building tomorrow's systems, today"
 
-Interested in system design? Scale architecture? Cyberpunk UI?  
+Interested in system design? Scale architecture? Cyberpunk UI?
 **Let's collaborate.** Open to discussions, projects, and coffee chats ☕
 
-</div>
-
----
-
-<div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=anditisyou&color=00f7ff&style=flat-square)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00E5,50:00F7FF,100:0D1117&height=120&section=footer" width="100%"/>
 
 </div>
