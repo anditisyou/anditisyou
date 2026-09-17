@@ -106,24 +106,24 @@ Data analytics and BI dashboard project combining SQL, Python, and exploratory d
 
 ### 💼 Experience
 
-| Role | Organization |
-|---|---|
-| Data Analyst Intern | **Bluestock™ Fintech** |
+| Role | Organization | From | To | Location |
+|---|---|---|---|---|
+| Data Analyst Intern | **Bluestock™ Fintech** | 06-2026 | 08-2026 | Remote |
+| AI-enabled Business Intelligence Intern | **Technology Business Incubator(GEU)** | 06-2026 | 07-2026 | Dehradun |
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vaishnavikhandelwal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaishnavikhandelwal&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=anditisyou&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anditisyou&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavikhandelwal&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anditisyou&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
-> ⚠️ Replace `vaishnavikhandelwal` above with your exact **GitHub username** for these stat cards to render correctly.
 
 ---
 
@@ -145,6 +145,6 @@ Data analytics and BI dashboard project combining SQL, Python, and exploratory d
 
 *Building scalable systems and analytical insights — one project at a time.*
 
-![Profile Views](https://komarev.com/ghpvc/?username=vaishnavikhandelwal&color=6C63FF&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=anditisyou&color=6C63FF&style=flat-square&label=Profile+Views)
 
 </div>
